@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
 
-<img align="right" alt="AI" width="400" src="https://img.freepik.com/vecteurs-libre/concept-transformation-numerique-vecteur-fond-puce-technologie-ia_53876-117808.jpg?t=st=1728771179~exp=1728774779~hmac=37ef791cf3462ca9d996aeac1b86da5573394a1f271beb230cbff4834f558e62&w=900">
-
+![1_gXarGhfVA03UeYsTg5hGvA (1)](https://github.com/user-attachments/assets/6038e6bc-c353-40ae-a891-aad10f5a079b)
 
 - 🌱 I’m currently learning **Gen AI**
 
