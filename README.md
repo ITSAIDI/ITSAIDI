@@ -2,8 +2,10 @@
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/a5/3a/2b/a53a2b34d2d16fffe38c4b90ebcdcb0f.gif" alt="Cool Animated GIF" />
+    <img src="https://camo.githubusercontent.com/ce8c6485823924e8189223e6cb5bb3dc8dbe97be5316781ae7b56f607ee23925/68747470733a2f2f7777772e313233636f64652e6f72672f696d616765732f6669656c64732f4749462f6172746966696369616c2d696e74656c6c6967656e63652e676966" 
+         alt="Artificial Intelligence GIF" width="200" height="200" />
 </p>
+
 
 
 - 🌱 I’m currently learning **Gen AI**
