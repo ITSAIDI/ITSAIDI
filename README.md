@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
 
-![1_gXarGhfVA03UeYsTg5hGvA (1)](https://github.com/user-attachments/assets/6038e6bc-c353-40ae-a891-aad10f5a079b)
+![intro gif](https://github.com/user-attachments/assets/1338ecef-a6f6-4a16-b514-3a0535c86468)
+
 
 - 🌱 I’m currently learning **Gen AI**
 
