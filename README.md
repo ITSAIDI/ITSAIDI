@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
 
-![](https://i.pinimg.com/originals/a5/3a/2b/a53a2b34d2d16fffe38c4b90ebcdcb0f.gif)
+<p align="center">
+    <img src="https://i.pinimg.com/originals/a5/3a/2b/a53a2b34d2d16fffe38c4b90ebcdcb0f.gif" alt="Cool Animated GIF" />
+</p>
 
 
 - 🌱 I’m currently learning **Gen AI**
