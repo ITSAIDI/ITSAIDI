@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://noureddinesaidi.netlify.app/](https://noureddinesaidi.netlify.app/)
 
