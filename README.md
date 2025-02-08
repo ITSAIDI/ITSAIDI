@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
+<p align="center">
+    <!-- Portfolio -->
+    <a href="https://noureddinesaidi.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4646/4646084.png" alt="Portfolio" width="40" height="40">
+    </a>
+    <!-- Hugging Face -->
+    <a href="https://huggingface.co/Noureddinesa" target="_blank">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="43" height="40">
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/noureddine-saidi-42ba3a247/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+    </a>
+</p>
 
 <p align="center">
     <img src="https://camo.githubusercontent.com/41d0c2abf283de27d0dd63b451903fe74bfad3a607a2fa598f0731216b46905d/68747470733a2f2f692e696d6775722e636f6d2f69546733586b502e676966" 
