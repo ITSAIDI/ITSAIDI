@@ -2,8 +2,8 @@
 <h3 align="center">A passionate AI Engineer from Morocco</h3>
 
 <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/131054654/411269736-84a96ec0-dc4f-4c01-99ca-2847e726350f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkwNTEwNDgsIm5iZiI6MTczOTA1MDc0OCwicGF0aCI6Ii8xMzEwNTQ2NTQvNDExMjY5NzM2LTg0YTk2ZWMwLWRjNGYtNGMwMS05OWNhLTI4NDdlNzI2MzUwZi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwOFQyMTM5MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNzYxZmFiYmFiOGNjMWI1ZThiZTdlYzMzMDZmZTZiYjgwNTViYTE5ZmQ1NDRiOTc1Zjc0NTc4NzVlMWFjZjExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.u6nT4uWaBLxTKlkmrgDN369grWVUELhjp8WnxpM3hro" 
-         alt="My GIF" width="200" height="200" />
+    <img src="https://camo.githubusercontent.com/41d0c2abf283de27d0dd63b451903fe74bfad3a607a2fa598f0731216b46905d/68747470733a2f2f692e696d6775722e636f6d2f69546733586b502e676966" 
+         alt="My GIF" width="350" height="350" />
 </p>
 
 
