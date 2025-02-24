@@ -38,6 +38,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" alt="Nextjs" width="40" height="40" align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="LangChain" width="40" height="40" align="left">
 <img src="https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_400x400.jpg" alt="LangChain" width="40" height="40" align="left">
 
