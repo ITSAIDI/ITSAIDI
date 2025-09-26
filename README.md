@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
-<h3 align="center">A passionate Full Stack AI Engineer |📱💻 Mobile & Web Developer</h3>
+<h3 align="center">A passionate Full Stack AI Engineer</h3>
 <p align="center">
     <!-- Portfolio -->
     <a href="https://noureddinesaidi.netlify.app/" target="_blank">
