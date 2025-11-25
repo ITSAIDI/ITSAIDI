@@ -21,7 +21,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Pytest framework**
 
 - 👨‍💻 All of my projects are available at [https://noureddinesaidi.netlify.app/](https://noureddinesaidi.netlify.app/)
 
