@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer</h3>
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:15px;">
     <!-- Portfolio -->
     <a href="https://noureddinesaidi.netlify.app/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/4646/4646084.png" alt="Portfolio" width="40" height="40">
