@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
 <h3 align="center">A passionate Full Stack AI Engineer</h3>
-<p align="center" style="display:flex; justify-content:center; gap:15px;">
-    <!-- Portfolio -->
-    <a href="https://noureddinesaidi.netlify.app/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/4646/4646084.png" alt="Portfolio" width="40" height="40">
-    </a>
-    <!-- Hugging Face -->
-    <a href="https://huggingface.co/Noureddinesa" target="_blank">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="43" height="40">
-    </a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/noureddine-saidi-42ba3a247/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
-    </a>
-</p>
+
+<a align="center" href="https://noureddinesaidi.netlify.app/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/4646/4646084.png" alt="Portfolio" width="40" height="40"/>
+</a>
+<a  href="https://huggingface.co/Noureddinesa" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="43" height="40"/>
+</a>
+<a  href="https://www.linkedin.com/in/noureddine-saidi-42ba3a247/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 
 <p align="center">
