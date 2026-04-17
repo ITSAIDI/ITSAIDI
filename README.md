@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Noureddine Saidi</h1>
-<h3 align="center">A passionate Full Stack AI Engineer</h3>
-
-
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<h1 align="center">👋 I'm Noureddine Saidi</h1>
+<h3 align="center">A passionate Software AI Engineer</h3>
 
 <p align="center">
   <img src="assets/portfolio.png" alt="Portfolio" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="43" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="assets/huggingface.png" alt="Hugging Face" width="43" height="40"/>
+  <img src="assets/linkedIn.png" alt="LinkedIn" width="40" height="40"/>
 </p>
 
 
