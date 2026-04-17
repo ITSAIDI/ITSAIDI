@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/603b097271fe31d7d8fc753f7bd7b70d34b3138d452247faaa1b9f510b0a24dc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a656374[...]" width="350" height="350" alt="My GIF" />
+    <img src="assets/myGif.gif" width="350" height="350" alt="My GIF" />
 </p>
 
 
