@@ -12,7 +12,7 @@
 </p> -->
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ITSAIDI/ITSAIDI/refs/heads/main/assets/myGif.gif" width="350" height="350" alt="My GIF" />
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="350" height="350" alt="My GIF" />
 </p>
 
 - 🌱 I'm currently learning **Pytest framework**
