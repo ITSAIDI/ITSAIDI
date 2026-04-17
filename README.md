@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4646/4646084.png" alt="Portfolio" width="40" height="40"/>
+  <img src="assets/portfolio.png" alt="Portfolio" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="43" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
 </p>
