@@ -7,11 +7,13 @@
   <img src="assets/linkedIn.png" alt="LinkedIn" width="40" height="40"/>
 </p>
 
+<!-- <p align="center">
+    <img src="assets/myGif.gif" width="350" height="350" alt="My GIF" />
+</p> -->
 
 <p align="center">
-    <img src="assets/myGif.gif" width="350" height="350" alt="My GIF" />
+    <img src="https://raw.githubusercontent.com/ITSAIDI/ITSAIDI/refs/heads/main/assets/myGif.gif" width="350" height="350" alt="My GIF" />
 </p>
-
 
 - 🌱 I'm currently learning **Pytest framework**
 
