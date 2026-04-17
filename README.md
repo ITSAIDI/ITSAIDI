@@ -7,17 +7,13 @@
   <img src="assets/linkedIn.png" alt="LinkedIn" width="40" height="40"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img src="assets/myGif.gif" width="350" height="350" alt="My GIF" />
-</p> -->
+</p>
 
-<table>
-  <tr>
-    <td style="background-color:#ffffff; border-radius:10px; text-align:center; padding:10px;">
-      <img src="https://camo.githubusercontent.com/603b097271fe31d7d8fc753f7bd7b70d34b3138d452247faaa1b9f510b0a24dc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" width="350" height="350" alt="My GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://camo.githubusercontent.com/603b097271fe31d7d8fc753f7bd7b70d34b3138d452247faaa1b9f510b0a24dc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" width="350" height="350" alt="My GIF" />
+</p>
 
 - 🌱 I'm currently learning **Pytest framework**
 
