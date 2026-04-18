@@ -35,7 +35,6 @@
   <img src="assets/d3.png" alt="D3.js" width="fit" height="40"/>
   <img src="assets/streamlit.png" alt="Streamlit" width="fit" height="40"/>
   <img src="assets/fastapi.png" alt="FastAPI" width="fit" height="25"/>
-  <img src="assets/flask.png" alt="Flask" width="fit" height="40"/>
   <img src="assets/nextjs.png" alt="Next.js" width="fit" height="40"/>
   <img src="assets/postgresql.png" alt="PostgreSQL" width="fit" height="40"/>
   <img src="assets/sqlite.png" alt="SQLite" width="fit" height="40"/>
