@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software AI Engineer</h3>
 
 <p align="center">
-  <img src="assets/portfolio.png" alt="Portfolio" width="fit" height="40"/>
-  <img src="assets/huggingface.png" alt="Hugging Face" width="43" height="40"/>
-  <img src="assets/linkedIn.png" alt="LinkedIn" width="fit" height="40"/>
+  <a href="https://noureddinesaidi.netlify.app/"><img src="assets/portfolio.png" alt="Portfolio" width="fit" height="40"/></a>
+  <a href="https://huggingface.co/Noureddinesa"><img src="assets/huggingface.png" alt="Hugging Face" width="43" height="40"/></a>
+  <a href="https://www.linkedin.com/in/noureddine-saidi-42ba3a247/"><img src="assets/linkedIn.png" alt="LinkedIn" width="fit" height="40"/></a>
 </p>
 
 <p align="center">
